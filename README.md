@@ -9,4 +9,5 @@
 ### ./run_docker.sh ou sh run_docker.sh
 
 
-## Caso esteja no Windows, siga as orientações do curso e rode o comando ".\run_docker.bat"
+## Caso esteja no Windows, siga as orientações do curso e rode o comando 
+### ".\run_docker.bat"
