@@ -1,5 +1,5 @@
-# Esse curso faz parte da Trilha Especialista AWS
+# Esse conteúdo faz parte da Formação AWS.
 
-- Link da Trilha: https://treinamento.oregonead.com.br/apresentacao/trilha-especialista-aws-li-2020-1
+- Link para entrar para a Formação AWWS: https://inscricao.formacaoaws.com.br
 
-- Canal do Youtube: https://www.youtube.com/c/oregonead
+- Canal do Youtube: https://www.youtube.com/@henryllemaia
