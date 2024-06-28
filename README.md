@@ -4,11 +4,6 @@
 
 - Canal do Youtube: https://www.youtube.com/@henryllemaia
 
-### Caso esteja no Linux/Mac, siga as orientações do curso e rode o comando "run_docker.sh"
+### Siga as orientacoes na aula para rodar o seu projeto com docker
 
-- ./run_docker.sh ou sh run_docker.sh
-
-
-
-### Caso esteja no Windows, siga as orientações do curso e rode o comando 
-- ".\run_docker.bat"
+_Obs: Atente para a arquitetura da sua máquina, como é explicado na aula_ 
